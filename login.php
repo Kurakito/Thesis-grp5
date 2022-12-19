@@ -21,7 +21,7 @@ if(isset($_SESSION['USER_LOGIN']) && $_SESSION['USER_LOGIN']=='yes'){
 <<<<<<< HEAD
 
 =======
-        <p style="text-transform:none;">Computer club and organization that manages and operate at MIS or Management Information System. It handles and manages operations such as enrollment, admission, and evaluation of grades in CSD. Hello world</p>
+        <p style="text-transform:none;">Computer club and organization that manages and operate at MIS or Management Information System. It handles and manages operations such as enrollment, admission, and evaluation of grades in CSD. HEllo ciabal</p>
 >>>>>>> main
              <a href="#about" class="btn">See more</a>
     </div>
