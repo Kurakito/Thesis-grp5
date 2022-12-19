@@ -18,7 +18,7 @@ if(isset($_SESSION['USER_LOGIN']) && $_SESSION['USER_LOGIN']=='yes'){
 <section class="home" id="home">
     <div class="content">
         <h2 style="font-size:24px; color:#14345c;">&nbsp;&nbsp;Barangay Incident Record Tracking</h2>
-        <p style="text-transform:none;">Computer club and organization that manages and operate at MIS or Management Information System. It handles and manages operations such as enrollment, admission, and evaluation of grades in CSD.</p>
+        <p style="text-transform:none;">Computer club and organization that manages and operate at MIS or Management Information System. It handles and manages operations such as enrollment, admission, and evaluation of grades in CSD. Hello world</p>
              <a href="#about" class="btn">See more</a>
     </div>
 </section>
